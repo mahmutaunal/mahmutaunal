@@ -3,7 +3,7 @@
 
 - 🔭 I’m developing application **with Kotlin.**
 
-- ⚡ I constantly strive to improve myself **and stay up-to-date with the latest technologies in mobile application development.**
+- ⚡ I constantly strive to improve myself and stay up-to-date with the latest technologies in mobile application development.
 
 <p align="left">
 </p>
