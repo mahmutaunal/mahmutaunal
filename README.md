@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmut Alperen Ünal</h1>
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m developing application **with Kotlin.**
+- 🔭 I’m developing mobile application **with Kotlin.**
 
 - ⚡ I constantly strive to improve myself and stay up-to-date with the latest technologies in mobile application development.
 
