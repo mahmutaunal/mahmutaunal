@@ -8,6 +8,7 @@
 - 🔭 I’m developing mobile applications using **Kotlin, Java, Jetpack Compose**, and **Flutter**
 - 🚀 Focused on secure, offline-first mobile apps
 - 📱 Currently publishing projects to Google Play
+- 🏢 Working as an **Android Developer** at **Inity**
 - ⚡ Always striving to learn and implement the latest in mobile technology
 
 ---
