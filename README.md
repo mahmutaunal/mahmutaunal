@@ -29,7 +29,7 @@
 ### 📱 Featured Apps
 
 - [🔐 Password Book](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) – AES-256 encrypted password manager
-- [📱 Kodex](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) – Modern QR scanner/generator with Compose UI
+- [📱 Kodex](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) – Modern and Customizable QR scanner/generator with Compose UI
 
 ---
 
