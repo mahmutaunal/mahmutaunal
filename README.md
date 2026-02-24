@@ -5,11 +5,29 @@
 
 ### 🧑‍💻 About Me
 
+I build secure, privacy-focused, and offline-first mobile applications.
+
+As a solo developer behind **AlpWare Studio**, I design, develop, and publish Android apps end-to-end — from architecture to UI, encryption, and Play Store release.
+
 - 🔭 I’m developing mobile applications using **Kotlin, Java, Jetpack Compose**, and **Flutter**
 - 🚀 Focused on secure, offline-first mobile apps
 - 📱 Currently publishing projects to Google Play
 - 🏢 Working as an **Android Developer**
 - ⚡ Always striving to learn and implement the latest in mobile technology
+
+---
+
+
+### 🏢 AlpWare Studio
+
+AlpWare Studio is my independent development brand focused on:
+
+• Privacy-first mobile tools  
+• Offline productivity apps  
+• Clean and minimalist UI  
+• High performance & efficient architecture  
+
+My goal is to build reliable, long-term mobile products — not just apps.
 
 ---
 
@@ -43,10 +61,15 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact With Me
 
+👨‍💻 Personal
 - 📧 Email: mahmutalperenunal@gmail.com  
 - 🌐 Website: [mahmutalperenunal.com](https://mahmutalperenunal.com)  
 - 💼 LinkedIn: [linkedin.com/in/mahmutalperenunal](https://www.linkedin.com/in/mahmut-alperen-unal/)
+
+🏢 AlpWare Studio
+- 📧 Email: contact@alpwarestudio.com  
+- 🌐 Website: [alpwarestudio.com](https://alpwarestudio.com)
 
 ---
