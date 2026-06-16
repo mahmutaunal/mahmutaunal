@@ -1,75 +1,124 @@
 <h1 align="center">Hi 👋, I'm Mahmut Alperen Ünal</h1>
-<h3 align="center">Android Developer | Kotlin & Compose Enthusiast</h3>
 
----
+<h3 align="center">
+Android Developer • Kotlin • Jetpack Compose • Flutter
+</h3>
 
-### 🧑‍💻 About Me
-
-I build secure, privacy-focused, and offline-first mobile applications.
-
-As a solo developer behind **AlpWare Studio**, I design, develop, and publish Android apps end-to-end — from architecture to UI, encryption, and Play Store release.
-
-- 🔭 I’m developing mobile applications using **Kotlin, Java, Jetpack Compose**, and **Flutter**
-- 🚀 Focused on secure, offline-first mobile apps
-- 📱 Currently publishing projects to Google Play
-- 🏢 Working as an **Android Developer**
-- ⚡ Always striving to learn and implement the latest in mobile technology
-
----
-
-
-### 🏢 AlpWare Studio
-
-AlpWare Studio is my independent development brand focused on:
-
-• Privacy-first mobile tools  
-• Offline productivity apps  
-• Clean and minimalist UI  
-• High performance & efficient architecture  
-
-My goal is to build reliable, long-term mobile products — not just apps.
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+<p align="center">
+Building secure, privacy-focused and offline-first mobile applications.
 </p>
 
 ---
 
-### 📱 Featured Apps
+## 👨‍💻 About Me
 
-- [Kodex](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) – Modern and Customizable QR scanner/generator with Compose UI
-- [Password Book](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) – AES-256 encrypted password manager
-- [KeymapKit](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) – Physical keyboard layouts for Android
+I'm a Android Developer with 3+ years of experience building, shipping, and maintaining production-ready mobile applications.
+
+My core expertise is native Android development, with a strong focus on Kotlin, Jetpack Compose, offline-first architecture, security, and privacy-focused products.
+
+My primary focus areas are:
+
+- 📱 Native Android Development
+- 🧩 Jetpack Compose & Modern Android Architecture
+- 🔐 Security & Privacy Focused Applications
+- 📦 Offline-First Mobile Solutions
+- 🚀 Product Development & Play Store Publishing
+
+I also build cross-platform applications using Flutter and continuously explore new technologies across the mobile ecosystem.
 
 ---
 
-### 📊 GitHub Stats
+## 🏢 AlpWare Studio
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmutaunal&theme=aura&show_icons=true" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutaunal&theme=aura&layout=compact" alt="top langs" height="160"/>
+Founder of **AlpWare Studio**, an independent mobile development brand focused on:
+
+- Privacy-first mobile tools
+- Offline productivity applications
+- Clean and accessible user experiences
+- Long-term maintainable software
+- High-performance mobile architecture
+
+My goal is not simply to build apps — but to build reliable products people can trust.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech / Focus |
+|--------|-------------|-------------|
+| [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) | Automatic refresh rate controller for unsupported Samsung and Xiaomi devices | Android • ADB • System Tools • Open Source |
+| [PasswordBook](https://github.com/mahmutaunal/PasswordBook) | Offline-first password manager focused on privacy and security | Kotlin • Security • AES-256 • Offline-First |
+| [NotifyBridge](https://github.com/mahmutaunal/NotifyBridge) | Android notifications delivered to macOS over local network | Android • macOS • Networking • Encryption |
+| [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility built with Flutter | Flutter • Networking • Material 3 |
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|-------------|
+| Mobile | Kotlin • Java • Dart • Flutter • Android SDK |
+| Android | Jetpack Compose • XML • MVVM • Room • Navigation • WorkManager • Coroutines • Flow |
+| Firebase | Analytics • Crashlytics • App Check • Cloud Messaging |
+| Architecture | Clean Architecture • Modularization • Offline-First • Repository Pattern • Dependency Injection |
+| Security | Android Keystore • AES-256 • Biometric Auth • Play Integrity • Root Detection |
+| Tools | Android Studio • Git • GitHub • Gradle • Figma |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmutaunal&show_icons=true&theme=aura" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutaunal&layout=compact&theme=aura" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahmutaunal&theme=aura" />
 </p>
 
 ---
 
-### 📫 Contact With Me
+# 📱 Published Applications
 
-👨‍💻 Personal
-- 📧 Email: mahmutalperenunal@gmail.com  
-- 🌐 Website: [mahmutalperenunal.com](https://mahmutalperenunal.com)  
-- 💼 LinkedIn: [linkedin.com/in/mahmutalperenunal](https://www.linkedin.com/in/mahmut-alperen-unal/)
-
-🏢 AlpWare Studio
-- 📧 Email: contact@alpwarestudio.com  
-- 🌐 Website: [alpwarestudio.com](https://alpwarestudio.com)
+| App | Description | Store |
+|-----|-------------|-------|
+| PasswordBook | Offline password manager with AES-256 encryption | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) |
+| Kodex | Modern QR scanner and generator | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) |
+| KeymapKit | Physical keyboard layouts for Android | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) |
 
 ---
+
+# 🌱 Areas I'm Expanding
+
+- Advanced Jetpack Compose
+- Modern Android Testing
+- iOS Development
+- Swift & SwiftUI
+- Cross-Platform Mobile Architecture
+
+---
+
+# 📫 Contact
+
+### Personal
+
+📧 mahmutalperenunal@gmail.com
+
+🌐 https://mahmutalperenunal.com
+
+💼 https://www.linkedin.com/in/mahmut-alperen-unal
+
+---
+
+### AlpWare Studio
+
+📧 contact@alpwarestudio.com
+
+🌐 https://alpwarestudio.com
+
+---
+
+<p align="center">
+Thanks for visiting my profile ⭐
+</p>
