@@ -5,62 +5,63 @@ Android Developer • Kotlin • Jetpack Compose • Flutter
 </h3>
 
 <p align="center">
-Building secure, privacy-focused and offline-first mobile applications.
+Building privacy-focused mobile applications, open-source tools, and production-ready Android products.
+</p>
+
+<p align="center">
+<a href="https://mahmutalperenunal.com">Website</a> •
+<a href="https://www.linkedin.com/in/mahmut-alperen-unal">LinkedIn</a> •
+<a href="https://play.google.com/store/apps/dev?id=5245599652065968716">Google Play</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Android Developer with 3+ years of experience building, shipping, and maintaining production-ready mobile applications.
+Android Developer with **3+ years of experience** building, publishing, and maintaining production-ready mobile applications.
 
-My core expertise is native Android development, with a strong focus on Kotlin, Jetpack Compose, offline-first architecture, security, and privacy-focused products.
-
-My primary focus areas are:
+### Focus Areas
 
 - 📱 Native Android Development
+- 🔐 Security & Privacy
 - 🧩 Jetpack Compose & Modern Android Architecture
-- 🔐 Security & Privacy Focused Applications
-- 📦 Offline-First Mobile Solutions
-- 🚀 Product Development & Play Store Publishing
-
-I also build cross-platform applications using Flutter and continuously explore new technologies across the mobile ecosystem.
+- 📦 Offline-First Applications
+- 🛠 System Utilities & Developer Tools
+- 🚀 Open-Source Software
 
 ---
 
-## 🏢 AlpWare Studio
-
-Founder of **AlpWare Studio**, an independent mobile development brand focused on:
-
-- Privacy-first mobile tools
-- Offline productivity applications
-- Clean and accessible user experiences
-- Long-term maintainable software
-- High-performance mobile architecture
-
-My goal is not simply to build apps — but to build reliable products people can trust.
-
----
-
-# 🚀 Featured Projects
+# 🚀 Open-Source Projects
 
 | Project | Description | Tech / Focus |
-|--------|-------------|-------------|
-| [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) | Automatic refresh rate controller for unsupported Samsung and Xiaomi devices | Android • ADB • System Tools • Open Source |
-| [NotifyBridge](https://github.com/mahmutaunal/NotifyBridge) | Android notifications delivered to macOS over local network | Android • macOS • Networking • Encryption |
-| [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility built with Flutter | Flutter • Networking • Material 3 |
+|----------|-------------|-------------|
+| [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) | Automatic refresh rate controller for unsupported Samsung and Xiaomi devices | Android • ADB • System Tools |
+| [NotifyBridge](https://github.com/mahmutaunal/NotifyBridge) | Android notifications delivered to macOS over the local network | Android • macOS • Networking • Encryption |
+| [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | Flutter • Networking • Wake-on-LAN |
+| [DarkSwitch](https://github.com/mahmutaunal/DarkSwitch) | Rootless Android utility that applies dark mode using Shizuku-based system access | Android • Jetpack Compose • Shizuku |
+| [ChannelSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | Android • WiFi • Privacy |
 
 ---
 
-## 🛠️ Tech Stack
+# 📱 Published Applications
 
-| Category | Technologies |
-|-----------|-------------|
-| Mobile | Kotlin • Java • Dart • Flutter • Android SDK |
-| Android | Jetpack Compose • XML • MVVM • Room • Navigation • WorkManager • Coroutines • Flow |
+| App | Description | Store |
+|-----|-------------|-------|
+| PasswordBook | Offline-first password manager with encryption, biometrics, backups, and autofill support | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) |
+| Kodex | Modern QR scanner and QR code generator | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) |
+| KeymapKit | Physical keyboard layouts and language support for Android devices | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) |
+
+---
+
+# 🛠 Tech Stack
+
+| Area | Technologies |
+|--------|--------|
+| Mobile | Kotlin • Java • Dart • Flutter |
+| Android | Jetpack Compose • XML • Room • Navigation • WorkManager • Coroutines • Flow |
+| Architecture | Clean Architecture • MVVM • Offline-First • Repository Pattern |
+| Security | Android Keystore • AES-256 • Biometrics • Play Integrity • Root Detection |
 | Firebase | Analytics • Crashlytics • App Check • Cloud Messaging |
-| Architecture | Clean Architecture • Modularization • Offline-First • Repository Pattern • Dependency Injection |
-| Security | Android Keystore • AES-256 • Biometric Auth • Play Integrity • Root Detection |
 | Tools | Android Studio • Git • GitHub • Gradle • Figma |
 
 ---
@@ -74,40 +75,21 @@ My goal is not simply to build apps — but to build reliable products people ca
 
 ---
 
-# 📱 Published Applications
+# 🌐 AlpWare Studio
 
-| App | Description | Store |
-|-----|-------------|-------|
-| PasswordBook | Offline password manager with AES-256 encryption | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) |
-| Kodex | Modern QR scanner and generator | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) |
-| KeymapKit | Physical keyboard layouts for Android | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) |
+Independent mobile development brand focused on:
 
----
+- Privacy-first mobile tools
+- Offline productivity applications
+- Open-source software
+- Long-term maintainable products
 
-# 🌱 Areas I'm Expanding
-
-- Advanced Jetpack Compose
-- Modern Android Testing
-- iOS Development
-- Swift & SwiftUI
-- Cross-Platform Mobile Architecture
+🔗 https://alpwarestudio.com
 
 ---
 
 # 📫 Contact
 
-### Personal
-
-📧 mahmutalperenunal@gmail.com
-
-🌐 https://mahmutalperenunal.com
-
-💼 https://www.linkedin.com/in/mahmut-alperen-unal
-
----
-
-### AlpWare Studio
-
-📧 contact@alpwarestudio.com
-
-🌐 https://alpwarestudio.com
+- 📧 mahmutalperenunal@gmail.com
+- 🌐 https://mahmutalperenunal.com
+- 💼 https://www.linkedin.com/in/mahmut-alperen-unal
