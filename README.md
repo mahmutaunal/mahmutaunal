@@ -47,7 +47,6 @@ My goal is not simply to build apps — but to build reliable products people ca
 | Project | Description | Tech / Focus |
 |--------|-------------|-------------|
 | [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) | Automatic refresh rate controller for unsupported Samsung and Xiaomi devices | Android • ADB • System Tools • Open Source |
-| [PasswordBook](https://github.com/mahmutaunal/PasswordBook) | Offline-first password manager focused on privacy and security | Kotlin • Security • AES-256 • Offline-First |
 | [NotifyBridge](https://github.com/mahmutaunal/NotifyBridge) | Android notifications delivered to macOS over local network | Android • macOS • Networking • Encryption |
 | [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility built with Flutter | Flutter • Networking • Material 3 |
 
@@ -68,13 +67,9 @@ My goal is not simply to build apps — but to build reliable products people ca
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmutaunal&show_icons=true&theme=aura" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmutaunal&layout=compact&theme=aura" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmutaunal&theme=aura" />
 </p>
 
 ---
@@ -116,9 +111,3 @@ My goal is not simply to build apps — but to build reliable products people ca
 📧 contact@alpwarestudio.com
 
 🌐 https://alpwarestudio.com
-
----
-
-<p align="center">
-Thanks for visiting my profile ⭐
-</p>
