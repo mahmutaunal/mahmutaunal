@@ -33,6 +33,8 @@ Android Developer with **3+ years of experience** building, publishing, and main
 
 # 🚀 Open-Source Projects
 
+> Some of these projects are also available as published applications on Google Play.
+
 | Project | Description | Tech / Focus |
 |----------|-------------|-------------|
 | [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) | Automatic refresh rate controller for unsupported Samsung and Xiaomi devices | Android • ADB • System Tools |
@@ -40,6 +42,7 @@ Android Developer with **3+ years of experience** building, publishing, and main
 | [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | Flutter • Networking • Wake-on-LAN |
 | [DarkSwitch](https://github.com/mahmutaunal/DarkSwitch) | Rootless Android utility that applies dark mode using Shizuku-based system access | Android • Jetpack Compose • Shizuku |
 | [ChannelSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | Android • WiFi • Privacy |
+| [KeymapKit](https://github.com/mahmutaunal/KeymapKit) | Physical keyboard layouts and language support for Android devices | Android • Input Methods • Utilities |
 
 ---
 
@@ -47,9 +50,12 @@ Android Developer with **3+ years of experience** building, publishing, and main
 
 | App | Description | Store |
 |-----|-------------|-------|
-| PasswordBook | Offline-first password manager with encryption, biometrics, backups, and autofill support | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) |
-| Kodex | Modern QR scanner and QR code generator | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) |
-| KeymapKit | Physical keyboard layouts and language support for Android devices | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) |
+| [PasswordBook](https://github.com/mahmutaunal/Password-Book) | Offline-first password manager with encryption, biometrics, backups, and autofill support | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook) |
+| [ScoreBook](https://github.com/mahmutaunal/Score-Book) | Offline score tracker for board games and card games with player statistics, game history, and local backup support | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
+| [Kodex](https://github.com/mahmutaunal/Kodex---Customizable-QR-Tool) | Modern QR scanner and QR code generator | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) |
+| [KeymapKit](https://github.com/mahmutaunal/KeymapKit) | Physical keyboard layouts and language support for Android devices | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) |
+| [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) |
+| [ChannelSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
 
 ---
 
