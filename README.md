@@ -78,27 +78,7 @@ I design, build, publish, and maintain mobile products from the first idea throu
 | **WiSense** | On-device Wi-Fi channel analysis and router recommendations | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) · [Source](https://github.com/mahmutaunal/ChannelSense) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
 | **KeymapKit** | System-level physical keyboard layouts for Android, without a custom IME | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) · [Source](https://github.com/mahmutaunal/KeymapKit) |
-
-## Open-source systems
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/mahmutaunal/DarkSwitch">ShadeOn</a></strong>
-      <br><br>
-      Rootless, per-app system dark-mode attempts using Shizuku and foreground-app detection.
-      <br><br>
-      <code>Kotlin</code> <code>Compose</code> <code>Shizuku</code>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/mahmutaunal/NotifyBridge">Novi</a></strong>
-      <br><br>
-      Encrypted notification forwarding between Android and macOS over the local network.
-      <br><br>
-      <code>Kotlin</code> <code>Compose</code> <code>SwiftUI</code>
-    </td>
-  </tr>
-</table>
+| **ShadeOn** | Rootless, per-app system dark-mode attempts using Shizuku and foreground-app detection. | [Source](https://github.com/mahmutaunal/DarkSwitch) |
 
 ## How I build
 
