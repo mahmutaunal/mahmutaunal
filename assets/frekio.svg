@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-label="Frekio">
+  <defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#101525"/><stop offset="1" stop-color="#111D35"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient></defs>
+  <rect width="600" height="170" rx="22" fill="url(#b)"/><circle cx="525" cy="0" r="130" fill="#22D3EE" opacity=".1"/>
+  <g transform="translate(38 38)" fill="none" stroke="url(#a)" stroke-width="5" stroke-linecap="round"><circle cx="45" cy="47" r="10" fill="#22D3EE" stroke="none"/><path d="M26 29a26 26 0 0 0 0 36M64 29a26 26 0 0 1 0 36M13 16a44 44 0 0 0 0 62M77 16a44 44 0 0 1 0 62"/></g>
+  <text x="145" y="72" fill="#F8FAFC" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="30" font-weight="750">Frekio</text>
+  <text x="146" y="105" fill="#94A3B8" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="15">INTERNET RADIO · ANDROID &amp; IOS · OPEN SOURCE</text>
+</svg>
