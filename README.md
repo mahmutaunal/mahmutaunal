@@ -41,7 +41,7 @@ Android Developer with **3+ years of experience** building, publishing, and main
 | [NotifyBridge](https://github.com/mahmutaunal/NotifyBridge) | Android notifications delivered to macOS over the local network | Android • macOS • Networking • Encryption |
 | [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | Flutter • Networking • Wake-on-LAN |
 | [DarkSwitch](https://github.com/mahmutaunal/DarkSwitch) | Rootless Android utility that applies dark mode using Shizuku-based system access | Android • Jetpack Compose • Shizuku |
-| [ChannelSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | Android • WiFi • Privacy |
+| [WiSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | Android • WiFi • Privacy |
 | [KeymapKit](https://github.com/mahmutaunal/KeymapKit) | Physical keyboard layouts and language support for Android devices | Android • Input Methods • Utilities |
 
 ---
@@ -55,7 +55,7 @@ Android Developer with **3+ years of experience** building, publishing, and main
 | [Kodex](https://github.com/mahmutaunal/Kodex---Customizable-QR-Tool) | Modern QR & Barcode toolkit for scanning, generation, customization and smart analysis | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex) |
 | [KeymapKit](https://github.com/mahmutaunal/KeymapKit) | Physical keyboard layouts and language support for Android devices | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) |
 | [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) |
-| [ChannelSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
+| [WiSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
 
 ---
 
