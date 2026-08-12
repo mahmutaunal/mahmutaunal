@@ -38,9 +38,8 @@ Android Developer with **3+ years of experience** building, publishing, and main
 | Project | Description | Tech / Focus |
 |----------|-------------|-------------|
 | [Adaptive-Hz](https://github.com/mahmutaunal/Adaptive-Hz) | Automatic refresh rate controller for unsupported Samsung and Xiaomi devices | Android • ADB • System Tools |
-| [NotifyBridge](https://github.com/mahmutaunal/NotifyBridge) | Android notifications delivered to macOS over the local network | Android • macOS • Networking • Encryption |
-| [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | Flutter • Networking • Wake-on-LAN |
 | [DarkSwitch](https://github.com/mahmutaunal/DarkSwitch) | Rootless Android utility that applies dark mode using Shizuku-based system access | Android • Jetpack Compose • Shizuku |
+| [Wakeon](https://github.com/mahmutaunal/Wakeon) | Cross-platform Wake-on-LAN utility for managing and waking devices over the network | Flutter • Networking • Wake-on-LAN |
 | [WiSense](https://github.com/mahmutaunal/ChannelSense) | Offline WiFi analyzer that detects channel congestion and recommends better router channels | Android • WiFi • Privacy |
 | [KeymapKit](https://github.com/mahmutaunal/KeymapKit) | Physical keyboard layouts and language support for Android devices | Android • Input Methods • Utilities |
 
