@@ -14,7 +14,9 @@
 
 <br>
 
-I design, build, publish, and maintain mobile products from the first idea through long-term release support. My work centers on modern Android development, privacy-conscious product design, offline-first experiences, and thoughtful platform integration.
+I build and ship mobile products with a strong focus on **Android**, **privacy-conscious architecture**, **offline-first experiences**, and **platform-level tooling** — from product idea and interface to release and long-term maintenance.
+
+My work sits between product engineering and the Android platform: polished end-user apps on one side, system-aware utilities and open-source experiments on the other.
 
 <table>
   <tr>
@@ -38,18 +40,18 @@ I design, build, publish, and maintain mobile products from the first idea throu
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/password-book.svg" width="100%" alt="Password Book" />
-      <br><br>
-      An offline-first encrypted vault for passwords, private records, attachments, backups, and secure everyday access.
-      <br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook"><strong>Google Play →</strong></a>
-    </td>
-    <td width="50%" valign="top">
       <img src="./assets/adaptive-hz.svg" width="100%" alt="Adaptive Hz" />
       <br><br>
       A rootless Android utility that adapts display refresh rate to real interaction while respecting device-specific behavior.
       <br><br>
       <a href="https://github.com/mahmutaunal/Adaptive-Hz"><strong>Source code →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/password-book.svg" width="100%" alt="Password Book" />
+      <br><br>
+      An offline-first encrypted vault for passwords, private records, attachments, backups, and secure everyday access.
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.passwordsbook"><strong>Google Play →</strong></a>
     </td>
   </tr>
   <tr>
@@ -68,6 +70,22 @@ I design, build, publish, and maintain mobile products from the first idea throu
       <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.kodex"><strong>Google Play →</strong></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/keymapkit.svg" width="100%" alt="KeymapKit" />
+      <br><br>
+      System-level physical keyboard layouts for Android, integrated through the platform layout provider instead of a custom IME.
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.alpware.keymapkit"><strong>Google Play →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/wisense.svg" width="100%" alt="ChannelSense" />
+      <br><br>
+      On-device Wi-Fi analysis that evaluates interference, channel width, overlap, signal strength, and confidence to recommend better channels.
+      <br><br>
+      <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense"><strong>Google Play →</strong></a>
+    </td>
+  </tr>
 </table>
 
 ## Product collection
@@ -75,10 +93,11 @@ I design, build, publish, and maintain mobile products from the first idea throu
 | Product | Built for | Availability |
 | --- | --- | --- |
 | **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
-| **WiSense** | On-device Wi-Fi channel analysis and router recommendations | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) · [Source](https://github.com/mahmutaunal/ChannelSense) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
-| **KeymapKit** | System-level physical keyboard layouts for Android, without a custom IME | [Google Play](https://play.google.com/store/apps/details?id=com.alpware.keymapkit) · [Source](https://github.com/mahmutaunal/KeymapKit) |
-| **ShadeOn** | Rootless, per-app system dark-mode attempts using Shizuku and foreground-app detection. | [Source](https://github.com/mahmutaunal/DarkSwitch) |
+| **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database. | [Source](https://github.com/mahmutaunal/ChannelSense) |
+| **LeadMailFinder** | Open-source company discovery, email extraction, and outreach tooling for job seekers and B2B prospecting. | [Source](https://github.com/mahmutaunal/leadmail-finder) |
+| **Play Store Launcher** | A deliberately tiny Android TV utility that exposes and launches the hidden Google Play Store without unnecessary permissions or background work. | [Source]([https://github.com/mahmutaunal/DarkSwitch](https://github.com/mahmutaunal/Play-Store-Launcher)) |
+| **Zapret macOS Discord** | A focused one-command Zapret setup for Discord on Apple Silicon Macs, covering installation, configuration, and networking behavior. | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
 
 ## How I build
 
@@ -94,15 +113,15 @@ I design, build, publish, and maintain mobile products from the first idea throu
 
 <div align="center">
 
-`Kotlin` &nbsp; `Jetpack Compose` &nbsp; `Flutter` &nbsp; `Dart` &nbsp; `SwiftUI`  
-`Coroutines` &nbsp; `Flow` &nbsp; `Room` &nbsp; `WorkManager` &nbsp; `Shizuku`  
-`Android Keystore` &nbsp; `Biometrics` &nbsp; `Play Integrity` &nbsp; `Firebase`
+`Kotlin` &nbsp; `Jetpack Compose` &nbsp; `Coroutines` &nbsp; `Flow` &nbsp; `Room` &nbsp; `WorkManager`  
+`Shizuku` &nbsp; `Android System APIs` &nbsp; `Android Keystore` &nbsp; `Biometrics` &nbsp; `Play Integrity`  
+`Flutter` &nbsp; `Dart` &nbsp; `SwiftUI` &nbsp; `Firebase` &nbsp; `Networking` &nbsp; `Shell`
 
 </div>
 
 ## AlpWare Studio
 
-[AlpWare Studio](https://www.alpwarestudio.com) is the independent product studio behind my published applications and open-source work. It focuses on useful, understandable software built with respect for privacy, platform conventions, and long-term maintainability.
+I build and publish my independent products under **[AlpWare Studio](https://www.alpwarestudio.com)** — focused on useful, understandable software shaped by privacy, simplicity, platform conventions, and long-term maintainability.
 
 <br>
 
