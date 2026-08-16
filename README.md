@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Mahmut Alperen Ünal — Independent Mobile Product Developer" />
+  <img src="./assets/profile-header.png" width="100%" alt="Mahmut Alperen Ünal — Mobile Product Engineer · Android & Platform" />
 
   <br>
 
@@ -35,7 +35,7 @@ My work sits between product engineering and the Android platform: polished end-
   </tr>
 </table>
 
-## Selected work
+## Featured work
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ My work sits between product engineering and the Android platform: polished end-
       <a href="https://play.google.com/store/apps/details?id=com.alpware.keymapkit"><strong>Google Play →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/wisense.svg" width="100%" alt="ChannelSense" />
+      <img src="./assets/wisense.svg" width="100%" alt="WiSense" />
       <br><br>
       On-device Wi-Fi analysis that evaluates interference, channel width, overlap, signal strength, and confidence to recommend better channels.
       <br><br>
@@ -88,16 +88,16 @@ My work sits between product engineering and the Android platform: polished end-
   </tr>
 </table>
 
-## Product collection
+## More work
 
-| Product | Built for | Availability |
+| Project | Built for | Availability |
 | --- | --- | --- |
-| **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
-| **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database. | [Source](https://github.com/mahmutaunal/ChannelSense) |
-| **LeadMailFinder** | Open-source company discovery, email extraction, and outreach tooling for job seekers and B2B prospecting. | [Source](https://github.com/mahmutaunal/leadmail-finder) |
-| **Play Store Launcher** | A deliberately tiny Android TV utility that exposes and launches the hidden Google Play Store without unnecessary permissions or background work. | [Source]([https://github.com/mahmutaunal/DarkSwitch](https://github.com/mahmutaunal/Play-Store-Launcher)) |
-| **Zapret macOS Discord** | A focused one-command Zapret setup for Discord on Apple Silicon Macs, covering installation, configuration, and networking behavior. | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
+| **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database | [Source](https://github.com/mahmutaunal/DarkSwitch) |
+| **LeadMailFinder** | Open-source company discovery, email extraction, and outreach tooling for job seekers and B2B prospecting | [Source](https://github.com/mahmutaunal/leadmail-finder) |
+| **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
+| **Play Store Launcher** | A deliberately tiny Android TV utility that exposes and launches the hidden Google Play Store without unnecessary permissions or background work | [Source](https://github.com/mahmutaunal/Play-Store-Launcher) |
+| **Zapret macOS Discord** | A focused one-command Zapret setup for Discord on Apple Silicon Macs, covering installation, configuration, and networking behavior | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
 
 ## How I build
 

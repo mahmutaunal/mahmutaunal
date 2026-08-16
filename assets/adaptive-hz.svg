@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-label="Adaptive Hz">
- <defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#0B0D18"/><stop offset="1" stop-color="#171127"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient></defs>
- <rect width="1280" height="230" rx="24" fill="url(#b)"/><circle cx="1160" cy="-5" r="210" fill="#8B5CF6" opacity=".10"/>
- <g transform="translate(55 50)" fill="none" stroke="url(#a)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><rect x="10" width="84" height="126" rx="20"/><path d="M26 76l16-21 15 14 24-34"/><circle cx="52" cy="106" r="5" fill="#A78BFA" stroke="none"/></g>
- <text x="205" y="82" fill="#F8FAFC" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="35" font-weight="760">Adaptive Hz</text>
- <text x="207" y="119" fill="#C4B5FD" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="650" letter-spacing="1.4">ANDROID · PLATFORM · OPEN SOURCE</text>
- <text x="207" y="159" fill="#94A3B8" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18">Interaction-aware refresh rate control, built around real device behavior.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="176" viewBox="0 0 680 176" role="img" aria-label="Adaptive Hz">
+  <defs>
+    <linearGradient id="b" x1="0" x2="1"><stop stop-color="#0B0D18"/><stop offset="1" stop-color="#171127"/></linearGradient>
+    <linearGradient id="a" x1="0" x2="1"><stop stop-color="#818CF8"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+  </defs>
+  <rect width="680" height="176" rx="18" fill="url(#b)"/>
+  <circle cx="635" cy="-8" r="135" fill="#8B5CF6" opacity=".10"/>
+  <rect x="20" y="20" width="94" height="136" rx="16" fill="#FFFFFF" opacity=".018"/>
+  <g transform="translate(30 46)" fill="none" stroke="url(#a)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"><rect x="10" y="0" width="58" height="86" rx="14"/><path d="M21 52l11-15 10 10 17-24"/><circle cx="39" cy="72" r="3.8" fill="url(#a)" stroke="none"/></g>
+  <text x="132" y="54" fill="#F8FAFC" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" font-weight="760">Adaptive Hz</text>
+  <text x="133" y="80" fill="#C084FC" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.15">ANDROID · PLATFORM · OPEN SOURCE</text>
+  <text x="133" y="113" fill="#B7C2D3" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-weight="450">Interaction-aware refresh rate control</text>
+  <text x="133" y="136" fill="#B7C2D3" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-weight="450">built around real device behavior.</text>
 </svg>

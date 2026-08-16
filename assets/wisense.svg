@@ -1,11 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-label="WiSense">
- <defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#0B0D18"/><stop offset="1" stop-color="#0B1A1B"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient></defs>
- <rect width="1280" height="230" rx="24" fill="url(#b)"/><circle cx="1160" cy="-5" r="210" fill="#2DD4BF" opacity=".09"/>
- <g transform="translate(53 51)" fill="none" stroke="url(#a)" stroke-width="6" stroke-linecap="round">
-  <path d="M8 39c29-27 75-27 104 0"/><path d="M25 59c20-18 51-18 71 0"/><path d="M43 79c10-9 25-9 35 0"/><circle cx="60" cy="101" r="6" fill="#5EEAD4" stroke="none"/>
-  <path d="M112 87h15M119.5 79.5v15" opacity=".8"/>
- </g>
- <text x="205" y="82" fill="#F8FAFC" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="35" font-weight="760">WiSense</text>
- <text x="207" y="119" fill="#5EEAD4" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="650" letter-spacing="1.4">ANDROID · NETWORKING · ON-DEVICE</text>
- <text x="207" y="159" fill="#94A3B8" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18">On-device Wi-Fi analysis with channel overlap and interference insights.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="176" viewBox="0 0 680 176" role="img" aria-label="WiSense">
+  <defs>
+    <linearGradient id="b" x1="0" x2="1"><stop stop-color="#0B0D18"/><stop offset="1" stop-color="#0B1A1B"/></linearGradient>
+    <linearGradient id="a" x1="0" x2="1"><stop stop-color="#2DD4BF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+  </defs>
+  <rect width="680" height="176" rx="18" fill="url(#b)"/>
+  <circle cx="635" cy="-8" r="135" fill="#2DD4BF" opacity=".10"/>
+  <rect x="20" y="20" width="94" height="136" rx="16" fill="#FFFFFF" opacity=".018"/>
+  <g transform="translate(30 46)" fill="none" stroke="url(#a)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 30c17-15 43-15 60 0M18 43c11-10 29-10 40 0M29 56c5-5 13-5 18 0"/><circle cx="38" cy="69" r="4" fill="url(#a)" stroke="none"/><path d="M67 59v13m-6-6h12"/></g>
+  <text x="132" y="54" fill="#F8FAFC" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" font-weight="760">WiSense</text>
+  <text x="133" y="80" fill="#67E8F9" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.15">ANDROID · NETWORKING · ON-DEVICE</text>
+  <text x="133" y="113" fill="#B7C2D3" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-weight="450">On-device Wi-Fi analysis with channel overlap</text>
+  <text x="133" y="136" fill="#B7C2D3" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-weight="450">and interference insights.</text>
 </svg>
