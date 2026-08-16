@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-label="KeymapKit">
+ <defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#0B0D18"/><stop offset="1" stop-color="#1B1118"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#FB7185"/><stop offset="1" stop-color="#FDA4AF"/></linearGradient></defs>
+ <rect width="1280" height="230" rx="24" fill="url(#b)"/><circle cx="1160" cy="-5" r="210" fill="#FB7185" opacity=".09"/>
+ <g transform="translate(54 58)" fill="none" stroke="url(#a)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="0" y="8" width="118" height="82" rx="14"/><path d="M18 28h18M48 28h18M78 28h18M24 48h18M54 48h18M84 48h16M18 68h20M48 68h46"/>
+  <path d="M91 103l13-13 13 13M104 90v25"/>
+ </g>
+ <text x="205" y="82" fill="#F8FAFC" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="35" font-weight="760">KeymapKit</text>
+ <text x="207" y="119" fill="#FDA4AF" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="650" letter-spacing="1.4">ANDROID · PLATFORM · KEYBOARD</text>
+ <text x="207" y="159" fill="#94A3B8" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="18">Physical keyboard layouts integrated directly with Android's system APIs.</text>
+</svg>
