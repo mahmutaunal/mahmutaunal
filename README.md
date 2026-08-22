@@ -92,10 +92,11 @@ My work sits between product engineering and the Android platform: polished end-
 
 | Project | Built for | Availability |
 | --- | --- | --- |
+| **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
 | **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database | [Source](https://github.com/mahmutaunal/DarkSwitch) |
+| **ChargeFreeze** | Rootless Android charging control that pauses battery charging while keeping USB connections active, built for Android Auto, DeX, ADB, tethering, and other long-running connected use cases | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
 | **LeadMailFinder** | Open-source company discovery, email extraction, and outreach tooling for job seekers and B2B prospecting | [Source](https://github.com/mahmutaunal/leadmail-finder) |
-| **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
 | **Play Store Launcher** | A deliberately tiny Android TV utility that exposes and launches the hidden Google Play Store without unnecessary permissions or background work | [Source](https://github.com/mahmutaunal/Play-Store-Launcher) |
 | **Zapret macOS Discord** | A focused one-command Zapret setup for Discord on Apple Silicon Macs, covering installation, configuration, and networking behavior | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
 
