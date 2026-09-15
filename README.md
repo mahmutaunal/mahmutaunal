@@ -9,6 +9,8 @@
   &nbsp;·&nbsp;
   <a href="https://play.google.com/store/apps/dev?id=5245599652065968716"><strong>Google Play</strong></a>
   &nbsp;·&nbsp;
+  <a href="https://apps.apple.com/us/developer/mahmut-alperen-unal/id6795194022"><strong>App Store</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/mahmut-alperen-unal/"><strong>LinkedIn</strong></a>
 </div>
 
@@ -92,7 +94,7 @@ My work sits between product engineering and the Android platform: polished end-
 
 | Project | Built for | Availability |
 | --- | --- | --- |
-| **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) |
+| **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) · [App Store](https://apps.apple.com/app/score-book-game-counter/id6795472075 ) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
 | **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database | [Source](https://github.com/mahmutaunal/DarkSwitch) |
 | **ChargeFreeze** | Rootless Android charging control that pauses battery charging while keeping USB connections active, built for Android Auto, DeX, ADB, tethering, and other long-running connected use cases | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
@@ -129,5 +131,7 @@ I build and publish my independent products under **[AlpWare Studio](https://www
 <div align="center">
   <a href="https://github.com/mahmutaunal?tab=repositories"><strong>Explore repositories</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://play.google.com/store/apps/dev?id=5245599652065968716"><strong>View published apps</strong></a>
+  <a href="https://play.google.com/store/apps/dev?id=5245599652065968716"><strong>View published apps on Google Play</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://apps.apple.com/us/developer/mahmut-alperen-unal/id6795194022"><strong>View published apps on App Store</strong></a>
 </div>
