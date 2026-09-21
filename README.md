@@ -100,6 +100,7 @@ My work sits between product engineering and the Android platform: polished end-
 | **ChargeFreeze** | Rootless Android charging control that pauses battery charging while keeping USB connections active, built for Android Auto, DeX, ADB, tethering, and other long-running connected use cases | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
 | **ScaleLink** | Privacy-first Android bridge that transfers measurements from supported Bluetooth smart scales directly to Health Connect, with BLE discovery, manual and event-driven automatic sync, and an extensible driver-based architecture | [Source](https://github.com/mahmutaunal/ScaleLink) |
 | **LeadMailFinder** | Open-source company discovery, email extraction, and outreach tooling for job seekers and B2B prospecting | [Source](https://github.com/mahmutaunal/leadmail-finder) |
+| **TVPilot** | Remote-first Android TV / Google TV system control and app management with Shizuku-powered advanced actions, D-pad navigation, protected bulk app closing, and device-aware power controls | [Source](https://github.com/mahmutaunal/TVPilot) |
 | **Play Store Launcher** | A deliberately tiny Android TV utility that exposes and launches the hidden Google Play Store without unnecessary permissions or background work | [Source](https://github.com/mahmutaunal/Play-Store-Launcher) |
 | **Zapret macOS Discord** | A focused one-command Zapret setup for Discord on Apple Silicon Macs, covering installation, configuration, and networking behavior | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
 
