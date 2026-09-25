@@ -81,11 +81,11 @@ My work sits between product engineering and the Android platform: polished end-
       <a href="https://play.google.com/store/apps/details?id=com.alpware.keymapkit"><strong>Google Play →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/wisense.svg" width="100%" alt="WiSense" />
+      <img src="./assets/konsollink.svg" width="100%" alt="KonsolLink" />
       <br><br>
-      On-device Wi-Fi analysis that evaluates interference, channel width, overlap, signal strength, and confidence to recommend better channels.
+      A cross-platform local network bridge for console Discord connections on macOS, Windows, and Linux.
       <br><br>
-      <a href="https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense"><strong>Google Play →</strong></a>
+      <a href="https://github.com/mahmutaunal/KonsolLink"><strong>Source code →</strong></a>
     </td>
   </tr>
 </table>
@@ -96,6 +96,7 @@ My work sits between product engineering and the Android platform: polished end-
 | --- | --- | --- |
 | **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) · [App Store](https://apps.apple.com/app/score-book-game-counter/id6795472075 ) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
+| **WiSense** | On-device Wi-Fi analysis that evaluates interference, channel width, overlap, signal strength, and confidence to recommend better channels | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
 | **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database | [Source](https://github.com/mahmutaunal/DarkSwitch) |
 | **ChargeFreeze** | Rootless Android charging control that pauses battery charging while keeping USB connections active, built for Android Auto, DeX, ADB, tethering, and other long-running connected use cases | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
 | **ScaleLink** | Privacy-first Android bridge that transfers measurements from supported Bluetooth smart scales directly to Health Connect, with BLE discovery, manual and event-driven automatic sync, and an extensible driver-based architecture | [Source](https://github.com/mahmutaunal/ScaleLink) |

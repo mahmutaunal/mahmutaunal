@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="176" viewBox="0 0 680 176" role="img" aria-label="KonsolLink">
+  <defs>
+    <linearGradient id="b" x1="0" x2="1"><stop stop-color="#0B0E13"/><stop offset="1" stop-color="#0B1D18"/></linearGradient>
+    <linearGradient id="a" x1="0" x2="1"><stop stop-color="#7BE0AC"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+  </defs>
+  <rect width="680" height="176" rx="18" fill="url(#b)"/>
+  <circle cx="635" cy="-8" r="135" fill="#7BE0AC" opacity=".10"/>
+  <rect x="20" y="20" width="94" height="136" rx="16" fill="#FFFFFF" opacity=".018"/>
+  <g transform="translate(30 46)" fill="none" stroke="url(#a)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="23.75" y="4" width="4.5" height="74" rx="2.25" fill="#8FE8BC" stroke="none"/>
+    <path d="M26 42 62 7"/>
+    <path d="M26 42 62 77"/>
+    <circle cx="70" cy="42" r="5.5" fill="#F8FAFC" stroke="none"/>
+  </g>
+  <text x="132" y="54" fill="#F8FAFC" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" font-weight="760">KonsolLink</text>
+  <text x="133" y="80" fill="#7BE0AC" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.15">CROSS-PLATFORM · NETWORKING · OPEN SOURCE</text>
+  <text x="133" y="113" fill="#B7C2D3" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-weight="450">A local network bridge that keeps console Discord</text>
+  <text x="133" y="136" fill="#B7C2D3" font-family="Inter,ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15.5" font-weight="450">connections working without a remote VPN.</text>
+</svg>
