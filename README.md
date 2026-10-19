@@ -95,7 +95,7 @@ My work sits between product engineering and the Android platform: polished end-
 | Project | Built for | Availability |
 | --- | --- | --- |
 | **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) · [App Store](https://apps.apple.com/app/score-book-game-counter/id6795472075 ) |
-| **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [Source](https://github.com/mahmutaunal/Wakeon) |
+| **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [App Store](https://apps.apple.com/us/app/wakeon-wake-on-lan/id6813891781) · [Source](https://github.com/mahmutaunal/Wakeon) |
 | **WiSense** | On-device Wi-Fi analysis that evaluates interference, channel width, overlap, signal strength, and confidence to recommend better channels | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
 | **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database | [Source](https://github.com/mahmutaunal/DarkSwitch) |
 | **ChargeFreeze** | Rootless Android charging control that pauses battery charging while keeping USB connections active, built for Android Auto, DeX, ADB, tethering, and other long-running connected use cases | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
