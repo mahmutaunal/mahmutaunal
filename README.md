@@ -16,7 +16,7 @@
 
 <br>
 
-I build and ship mobile products with a strong focus on **Android**, **privacy-conscious architecture**, **offline-first experiences**, and **platform-level tooling** — from product idea and interface to release and long-term maintenance.
+I build and ship mobile products with a strong focus on **mobile**, **privacy-conscious architecture**, **offline-first experiences**, and **platform-level tooling** — from product idea and interface to release and long-term maintenance.
 
 My work sits between product engineering and the Android platform: polished end-user apps on one side, system-aware utilities and open-source experiments on the other.
 
