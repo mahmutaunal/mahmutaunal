@@ -37,7 +37,7 @@ My work sits between product engineering and the Android platform: polished end-
   </tr>
 </table>
 
-## Featured work
+## Featured works
 
 <table>
   <tr>
@@ -58,11 +58,13 @@ My work sits between product engineering and the Android platform: polished end-
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/frekio.svg" width="100%" alt="Frekio" />
+      <img src="./assets/novi.svg" width="100%" alt="Novi — Android meets Mac" />
       <br><br>
-      A privacy-respecting internet radio app with background audio, widgets, Android Auto, CarPlay, and shared playback state.
+      Your Android phone, connected to your Mac. Notifications, files, and clipboard sharing over an encrypted local connection.
       <br><br>
-      <a href="https://github.com/mahmutaunal/Frekio"><strong>Source code →</strong></a>
+      <a href="https://play.google.com/store/apps/details?id=com.alpware.notifybridge"><strong>Google Play →</strong></a>
+      &nbsp;·&nbsp;
+      <a href="https://apps.apple.com/us/app/novi-phone-companion/id6795194020?mt=12"><strong>Mac App Store →</strong></a>
     </td>
     <td width="50%" valign="top">
       <img src="./assets/kodex.svg" width="100%" alt="Kodex" />
@@ -90,20 +92,21 @@ My work sits between product engineering and the Android platform: polished end-
   </tr>
 </table>
 
-## More work
+## More works
 
 | Project | Built for | Availability |
 | --- | --- | --- |
 | **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) · [App Store](https://apps.apple.com/app/score-book-game-counter/id6795472075 ) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [App Store](https://apps.apple.com/us/app/wakeon-wake-on-lan/id6813891781) · [Source](https://github.com/mahmutaunal/Wakeon) |
-| **WiSense** | On-device Wi-Fi analysis that evaluates interference, channel width, overlap, signal strength, and confidence to recommend better channels | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
-| **DarkSwitch** | Rootless per-app Force Dark experiments powered by Shizuku, foreground detection, strategy fallback, and an offline compatibility database | [Source](https://github.com/mahmutaunal/DarkSwitch) |
-| **ChargeFreeze** | Rootless Android charging control that pauses battery charging while keeping USB connections active, built for Android Auto, DeX, ADB, tethering, and other long-running connected use cases | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
-| **ScaleLink** | Privacy-first Android bridge that transfers measurements from supported Bluetooth smart scales directly to Health Connect, with BLE discovery, manual and event-driven automatic sync, and an extensible driver-based architecture | [Source](https://github.com/mahmutaunal/ScaleLink) |
-| **LeadMailFinder** | Open-source company discovery, email extraction, and outreach tooling for job seekers and B2B prospecting | [Source](https://github.com/mahmutaunal/leadmail-finder) |
-| **TVPilot** | Remote-first Android TV / Google TV system control and app management with Shizuku-powered advanced actions, D-pad navigation, protected bulk app closing, and device-aware power controls | [Source](https://github.com/mahmutaunal/TVPilot) |
-| **Play Store Launcher** | A deliberately tiny Android TV utility that exposes and launches the hidden Google Play Store without unnecessary permissions or background work | [Source](https://github.com/mahmutaunal/Play-Store-Launcher) |
-| **Zapret macOS Discord** | A focused one-command Zapret setup for Discord on Apple Silicon Macs, covering installation, configuration, and networking behavior | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
+| **WiSense** | On-device Wi-Fi analysis to find better channels and reduce interference | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
+| **Frekio** | Private internet radio, from your phone to Android Auto and CarPlay | [Source](https://github.com/mahmutaunal/Frekio) |
+| **DarkSwitch** | Experimental per-app dark mode for Android, powered by Shizuku without root | [Source](https://github.com/mahmutaunal/DarkSwitch) |
+| **ChargeFreeze** | Pause Android charging while keeping Android Auto, DeX, and USB connections active | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
+| **ScaleLink** | Sync supported Bluetooth smart scales directly to Android Health Connect | [Source](https://github.com/mahmutaunal/ScaleLink) |
+| **LeadMailFinder** | Find companies and contact emails for job searches and B2B outreach | [Source](https://github.com/mahmutaunal/leadmail-finder) |
+| **TVPilot** | Control Android TV and Google TV apps and system settings with your remote | [Source](https://github.com/mahmutaunal/TVPilot) |
+| **Play Store Launcher** | Open the hidden Google Play Store on Android TV with one tap | [Source](https://github.com/mahmutaunal/Play-Store-Launcher) |
+| **Zapret macOS Discord** | Set up Zapret for Discord on Apple Silicon Macs with one command | [Source](https://github.com/mahmutaunal/zapret-macos-discord) |
 
 ## How I build
 
