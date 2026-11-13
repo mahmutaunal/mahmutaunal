@@ -99,7 +99,7 @@ My work sits between product engineering and the Android platform: polished end-
 | **Score Book** | Offline scorekeeping, game history, player statistics, and local backup | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.skordefteri) · [App Store](https://apps.apple.com/app/score-book-game-counter/id6795472075 ) |
 | **Wakeon** | Cross-platform Wake-on-LAN device management | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.wakeon) · [App Store](https://apps.apple.com/us/app/wakeon-wake-on-lan/id6813891781) · [Source](https://github.com/mahmutaunal/Wakeon) |
 | **WiSense** | On-device Wi-Fi analysis to find better channels and reduce interference | [Google Play](https://play.google.com/store/apps/details?id=com.mahmutalperenunal.channelsense) |
-| **Frekio** | Private internet radio, from your phone to Android Auto and CarPlay | [Source](https://github.com/mahmutaunal/Frekio) |
+| **Frekio** | Private internet radio, from your phone to Android Auto and CarPlay | [Google Play](https://play.google.com/store/apps/details?id=com.alpwarestudio.frekio) · [Source](https://github.com/mahmutaunal/Frekio) |
 | **DarkSwitch** | Experimental per-app dark mode for Android, powered by Shizuku without root | [Source](https://github.com/mahmutaunal/DarkSwitch) |
 | **ChargeFreeze** | Pause Android charging while keeping Android Auto, DeX, and USB connections active | [Source](https://github.com/mahmutaunal/ChargeFreeze) |
 | **ScaleLink** | Sync supported Bluetooth smart scales directly to Android Health Connect | [Source](https://github.com/mahmutaunal/ScaleLink) |
